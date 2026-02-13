@@ -4,13 +4,18 @@ In this lab, we worked on detecting faces from an image and then grouping them u
 
 # Aim
 Detect faces using Haar Cascade classifier
+
 Extract basic color features (Hue and Saturation)
+
 Apply K-Means clustering on the extracted features
+
 Classify a new face based on the trained clusters
 
 # Methodology
 First, the input image was converted to grayscale and face detection was performed using OpenCV’s Haar Cascade. After detecting the faces, the image was converted into HSV format, and the mean Hue and Saturation values were calculated for each face region.
+
 These feature values were then used as inputs to the K-Means algorithm (k = 2) to form clusters. The cluster centroids were calculated and visualized.
+
 Finally, a template image was processed in the same way and its cluster label was predicted using the trained K-Means model.
 
 # Results
