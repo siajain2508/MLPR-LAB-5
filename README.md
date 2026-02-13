@@ -2,7 +2,7 @@
 # Overview
 In this lab, we worked on detecting faces from an image and then grouping them using a distance-based clustering approach. The idea was to understand how feature extraction and K-Means clustering work together in a simple computer vision task. We also tested the model by classifying a new template image.
 
-# Aim:
+# Aim
 Detect faces using Haar Cascade classifier
 Extract basic color features (Hue and Saturation)
 Apply K-Means clustering on the extracted features
