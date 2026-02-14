@@ -25,8 +25,8 @@ Faces were successfully detected from the given image. The clustering algorithm 
 This lab helped in understanding how distance-based classification works in practice. It showed that even simple features like Hue and Saturation can be used for clustering. The experiment also reinforced concepts like feature extraction, clustering, and the importance of choosing appropriate distance measures.
 
 ![Faculty](images/Faculty.png)
-![K-means clustering](images/"K-means clustering.png")
-![Cluster visualizations](images/"Cluster visualizations.png")
+![KMeans_clustering](images/KMeans_clustering.png)
+![Cluster_visualizations](images/Cluster_visualizations.png)
 ![ShashiTharoor](images/ShashiTharoor.png)
-![Template classification](images/"Template classification.png")
-![Final cluster vis](images/"Final cluster vis.png")
+![Template_classification](images/Template_classification.png)
+![Final_cluster_vis](images/Final_cluster_vis.png)
